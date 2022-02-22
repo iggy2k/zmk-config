@@ -84,7 +84,7 @@
 		bindings = <
         &kp F1  &kp F2 &kp F3  &kp F4  &kp F5    			&kp F6  &kp F7 &kp F8 &kp F9 &kp F10
 		&kp ESCAPE  &kp LALT  &kp TAB   &kp LEFT_SHIFT   &kp PRINTSCREEN 			&none &kp KP_EQUAL  &kp UP_ARROW  &kp DELETE   &kp F11
-		&kp LC(z)  &kp LC(x) &kp LC(c) &kp LC(v)   &none    			&none &kp LEFT_ARROW &kp DOWN_ARROW &kp RIGHT_ARROW  &kp F12
+		&kp LC(Z)  &kp LC(X) &kp LC(C) &kp LC(V)   &none    			&none &kp LEFT_ARROW &kp DOWN_ARROW &kp RIGHT_ARROW  &kp F12
 					  &mo 3 &kp LCTL  				&kp SPC  &mo 2
 		>;
 		};
